@@ -1,5 +1,5 @@
 def 
-  say_hello("Hello ")
+  say_hello("Hello! ",Ebisiemen)
   print 
 end 
 
