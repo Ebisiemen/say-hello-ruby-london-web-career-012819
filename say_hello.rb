@@ -1,6 +1,6 @@
 def 
   say_hello(name="Ruby Programmer")
-  puts say_hello
+  puts "{" say_hello
 end 
 
 # Build your say_hello method here
