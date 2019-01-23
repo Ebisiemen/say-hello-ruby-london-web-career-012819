@@ -1,5 +1,5 @@
 def 
-  say_hello = Hello 
+  say_hello()
   print say_hello
 end 
 
