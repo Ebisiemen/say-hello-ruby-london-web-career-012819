@@ -1,5 +1,5 @@
 def 
-  say_hello(name=Ruby Programmer)
+  say_hello(name="Ruby Programmer")
   print say_hello
 end 
 
